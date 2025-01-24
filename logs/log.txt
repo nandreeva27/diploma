@@ -1,0 +1,5 @@
+2025-01-24 17:51:08,217 - INFO - Файл students.csv успешно загружен.
+2025-01-24 17:51:08,618 - INFO - HTTP Request: POST https://api.telegram.org/bot5822515185:AAHE_H8penDYcUJtJgWOmG0fQzcTlikNgF0/sendMessage "HTTP/1.1 200 OK"
+2025-01-24 17:51:08,619 - INFO - Сообщение успешно отправлено: Telegram ID 405760175
+2025-01-24 17:51:08,802 - INFO - HTTP Request: POST https://api.telegram.org/bot5822515185:AAHE_H8penDYcUJtJgWOmG0fQzcTlikNgF0/sendMessage "HTTP/1.1 200 OK"
+2025-01-24 17:51:08,803 - INFO - Сообщение успешно отправлено: Telegram ID 405760175
