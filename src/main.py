@@ -8,7 +8,7 @@ print(os.path.dirname(os.path.join(os.getcwd())))
 
 # Настройки Telegram API
 with open("token.txt", encoding='utf-8') as token:
-    TELEGRAM_BOT_TOKEN = token.readline() # Замените на токен вашего Telegram-бота
+    TELEGRAM_BOT_TOKEN = token.readline()
 
 
 # Директории
