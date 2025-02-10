@@ -54,8 +54,8 @@ async def main():
 
     # Итерация по данным
     for _, row in data.iterrows():
-        name = row.get('name', 'Пользователь')
-        parent_name = row.get('parent_name', 'Родитель')
+        name = row.get('name', 'Ученик')
+        parent_name = row.get('parent_name', 'Уважаемый родитель')
         ege_result = row.get('ege_results', None)
         telegram_id = row.get('telegram_id', None)
         sex = row.get('sex', None)
