@@ -3,8 +3,6 @@ from telegram import Bot
 import logging
 import asyncio
 import os
-print(os.path.join(os.getcwd()))
-print(os.path.dirname(os.path.join(os.getcwd())))
 
 # Настройки Telegram API
 with open("token.txt", encoding='utf-8') as token:
